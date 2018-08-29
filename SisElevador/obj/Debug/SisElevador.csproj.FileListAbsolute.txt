@@ -1,0 +1,6 @@
+C:\Users\amribeiro\Documents\Visual Studio 2013\Projects\SisElevador\SisElevador\bin\Debug\SisElevador.exe.config
+C:\Users\amribeiro\Documents\Visual Studio 2013\Projects\SisElevador\SisElevador\obj\Debug\SisElevador.csprojResolveAssemblyReference.cache
+C:\Users\amribeiro\Documents\Visual Studio 2013\Projects\SisElevador\SisElevador\bin\Debug\SisElevador.exe
+C:\Users\amribeiro\Documents\Visual Studio 2013\Projects\SisElevador\SisElevador\bin\Debug\SisElevador.pdb
+C:\Users\amribeiro\Documents\Visual Studio 2013\Projects\SisElevador\SisElevador\obj\Debug\SisElevador.exe
+C:\Users\amribeiro\Documents\Visual Studio 2013\Projects\SisElevador\SisElevador\obj\Debug\SisElevador.pdb
